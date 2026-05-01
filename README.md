@@ -1,6 +1,6 @@
 # Curling League Manager
 
-This is my final project for CPSC 4973. It is a desktop application with a GUI built using PySide6 that lets you manage curling leagues, teams, and team members.
+This is my final project for CPSC 4970. It is a desktop application with a GUI built using PySide6 that lets you manage curling leagues, teams, and team members.
 
 ## Requirements
 - Python 3.14
